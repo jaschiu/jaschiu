@@ -1,5 +1,3 @@
-# [Jason Chiu's Site](https://codeberg.org/ljchiu)
-
 Hi! I'm at Windsurf doing DevOps & ML Platform Engineering in the Bay Area! I
 went to UIUC (University of Illinois Urbana-Champaign) for both my Bachelors in
 CS + Music and Masters in CS. I enjoy doing Linux Administration, crafting
