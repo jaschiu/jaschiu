@@ -1,16 +1,17 @@
-Hi! I'm at Windsurf doing DevOps & ML Platform Engineering in the Bay Area! I
+Hi! I was head of DevOps/DevEx/ML Platform Engineering @ Windsurf! I
 went to UIUC (University of Illinois Urbana-Champaign) for both my Bachelors in
 CS + Music and Masters in CS. I enjoy doing Linux Administration, crafting
 optimized Docker images, and working with Bazel, so feel free to contact me via
 email:
 
-- [`jobs@jasonchiu.slmail.me`](mailto:jobs@jasonchiu.slmail.me) (for job opportunities)
-- [`general@jasonchiu.slmail.me`](mailto:general@jasonchiu.slmail.me) (anything else)
+- [`general@jasonchiu.slmail.me`](mailto:general@jasonchiu.slmail.me)
   - My public PGP key:
   [`DBED259BB132CCE96AC4D3F7689BA4FF85AA0D65`](https://jaschiu.github.io/public.asc). Please
-  also include your public key in your email if using it.
+    also include your public key in your email if using it.
   - You can also request that I reply with a different email alias (via
-  SimpleLogin; `slmail.me` is one of their domains).
+    SimpleLogin; `slmail.me` is one of their domains).
+  - Please **do not** send me unsolicited job opportunities for now, but feel
+    free to check back if I welcome them in the future
 
 You can also communicate with me on Matrix (install the Element app to chat), my
 ID is `@jasonyip:matrix.org`
