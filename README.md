@@ -4,14 +4,13 @@ Windsurf, doing DevOps/DevEx/ML Platform Engineering there. I went to UIUC
 and Masters in CS. I enjoy doing Linux Administration, crafting optimized Docker
 images, and working with Bazel, so feel free to contact me via email:
 
-- [`general@jasonchiu.slmail.me`](mailto:general@jasonchiu.slmail.me)
+- `jobs@` `{first name}` `{last name}` `.dev` (for job opportunities)
+- `general@` `{first name}` `{last name}` `.dev` (anything else)
   - My public PGP key:
   [`DBED259BB132CCE96AC4D3F7689BA4FF85AA0D65`](https://jaschiu.github.io/public.asc). Please
     also include your public key in your email if using it.
   - You can also request that I reply with a different email alias (via
     SimpleLogin; `slmail.me` is one of their domains).
-  - Please **do not** send me unsolicited job opportunities for now, but feel
-    free to check back if I welcome them in the future
 
 You can also communicate with me on Matrix (install the Element app to chat), my
 ID is `@jasonyip:matrix.org`
@@ -54,13 +53,4 @@ Ask me anything about these UIUC courses I have completed:
 - MUS305 (Computation & Music III)
 - MUS407 (Electronic Music Techniques I)
 - MUS209 (Musical Acoustics)
-
-## Hobbies
-
-Powerlifting and long-distance running. Competitive Smash Ultimate. Learning
-the Lojban language. Gentoo Linux.
-
-I still have my WIP Homelab project to do, but once it's ready, I will no longer
-use GitHub pages to host this site (even if it means sacrificing `1 - 1e-9`
-availability)
 
